@@ -1,0 +1,111 @@
+.firstsec{
+    color: white;
+    font-family: 'Finlandica', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+    text-align: center;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    }
+   .first-sec{
+        color: white;
+        font-family: 'Finlandica', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        font-family: 'Roboto', sans-serif;
+        text-align: center;
+        font-size: 80px;
+        padding-top: 10%;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    }
+   .link-button{
+    display: block;
+    width: fit-content;
+    text-decoration: none;
+    background-color: red;
+    padding: 10px 40px;
+    color: white;
+    font-weight: 600;
+    border-radius: 5px;
+    margin: auto;
+    
+   }
+.first-banner{
+    margin: 0%;
+    padding: 0%;
+    min-height: 85vh;
+    width: 100%;
+    background-image: url(donation13.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    border-radius: 5px;
+  }
+  .second-sec{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Finlandica', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 5%;
+   
+  }
+  .secondsec{
+    color: black;
+    text-align: center;
+    font-weight: 80;
+    margin-bottom: 5%;
+  }
+  .flexible-container{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+  }
+  .tripple-box{
+    width: 100%;
+    padding: 10px;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    margin-left: 10px;
+    margin-right: 10px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.418);
+    
+  }
+  #box1{
+    background-color: rgba(2, 255, 255, 0.233);
+    margin-left: 15%;
+   
+  }
+  #box2{
+    background-color: rgba(255, 107, 1, 0.274);
+  }
+  #box3{
+    background-color: rgba(255, 251, 0, 0.39);
+    margin-right: 15%;
+  }
+  .new-container{
+    display: flex;
+    align-content: center;
+  }
+  #image-add2 img{
+  width: 50%px;
+  height: 300px;
+  margin-top: 100px;
+  margin-right: 140px;
+  margin-left: 20px;
+  box-shadow: 10px 10px 40px gray;
+  }
+    #image-add{
+        
+        margin-top: 100px;
+        margin-left: 140px;
+        padding-left:  50px;
+        padding-right:  100px;
+        padding-bottom:  80px;
+
+    }
+    h1{
+        font-size: 30px;
+        font-weight: 700;
+    }
